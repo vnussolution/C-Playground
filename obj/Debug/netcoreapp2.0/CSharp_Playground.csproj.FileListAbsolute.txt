@@ -1,0 +1,10 @@
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/obj/Debug/netcoreapp2.0/CSharp_Playground.csproj.CoreCompileInputs.cache
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/obj/Debug/netcoreapp2.0/CSharp_Playground.AssemblyInfoInputs.cache
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/obj/Debug/netcoreapp2.0/CSharp_Playground.AssemblyInfo.cs
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/bin/Debug/netcoreapp2.0/CSharp_Playground.deps.json
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/bin/Debug/netcoreapp2.0/CSharp_Playground.runtimeconfig.json
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/bin/Debug/netcoreapp2.0/CSharp_Playground.runtimeconfig.dev.json
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/bin/Debug/netcoreapp2.0/CSharp_Playground.dll
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/bin/Debug/netcoreapp2.0/CSharp_Playground.pdb
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/obj/Debug/netcoreapp2.0/CSharp_Playground.dll
+/Users/trucnguyen/Desktop/Learning/CSharp_Playground/obj/Debug/netcoreapp2.0/CSharp_Playground.pdb
